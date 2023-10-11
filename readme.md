@@ -20,7 +20,7 @@ def fitness(a: list[int]):
 Define the number of genes in your individuals and the number of generations:
 
 ```py
-from simple-python-cga import evolve
+from cga import evolve
 
 best = evolve(fitness, num_genes=10, generations=1000)
 ```

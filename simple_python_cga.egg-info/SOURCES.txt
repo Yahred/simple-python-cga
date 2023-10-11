@@ -1,0 +1,5 @@
+setup.py
+simple_python_cga.egg-info/PKG-INFO
+simple_python_cga.egg-info/SOURCES.txt
+simple_python_cga.egg-info/dependency_links.txt
+simple_python_cga.egg-info/top_level.txt

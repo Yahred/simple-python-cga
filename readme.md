@@ -12,14 +12,14 @@ This implementation only works for binary codification in the individuals
 
 You only need to define a fitness function:
 
-```
+```py
 def fitness(a: list[int]):
     return sum(a)
 ```
 
 Define the number of genes in your individuals and the number of generations:
 
-```
+```py
 from simple-python-cga import evolve
 
 best = evolve(fitness, num_genes=10, generations=1000)

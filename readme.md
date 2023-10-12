@@ -25,4 +25,4 @@ from cga import evolve
 best = evolve(fitness, num_genes=10, generations=1000)
 ```
 
-The function evolve will return the best individual of the evolution process.
+The evolve function will return the best individual of the evolution process.

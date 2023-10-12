@@ -1,8 +1,8 @@
 # Simple Compact genetic algorithm
 
 This is a simple compact genetic algorithm (SCGA) implementation in Python. 
-It is based on the paper [A Simple Compact Genetic Algorithm for Multiobjective Optimization]
-(https://ieeexplore.ieee.org/document/1004388) by Kalyanmoy Deb and Debayan Deb.
+It is based on the paper [The compact genetic algorithm]
+(https://ieeexplore.ieee.org/document/797971) by Harik at. el.
 
 0 external libraries.
 

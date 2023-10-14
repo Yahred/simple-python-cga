@@ -15,7 +15,7 @@ You only need to define a fitness function:
 ```py
 def fitness(bin: str):
     ind = int(bin, 2)
-    return individual
+    return ind
 ```
 
 Define the number of genes in your individuals and the number of generations:

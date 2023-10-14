@@ -13,8 +13,9 @@ This implementation only works for binary codification in the individuals
 You only need to define a fitness function:
 
 ```py
-def fitness(individual: list[int]):
-    return sum(individual)
+def fitness(bin: str):
+    ind = int(bin, 2)
+    return individual
 ```
 
 Define the number of genes in your individuals and the number of generations:
